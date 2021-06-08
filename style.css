@@ -35,7 +35,8 @@ p span {
   width: 40%;
   padding: 2px 0;
   margin-left: 10%;
-  background-color: #222;
+  border: 4px white;
+  background-color: black;
   color: lightsalmon;
   position: relative;
   float: left;
